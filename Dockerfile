@@ -4,4 +4,4 @@ ADD src /src
 
 RUN pip install pystrich
 
-CMD [ "python", "./src/temp_converter.py" ]
+CMD [ "python", "./src/my_script.py" ]
